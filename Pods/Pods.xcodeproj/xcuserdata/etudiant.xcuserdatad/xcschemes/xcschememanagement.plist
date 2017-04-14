@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-application_meteo.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-application_meteoTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-application_meteoUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SDWebImage.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>libwebp.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>9E83FCC87F1241B2A0840B4F4B0945F7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A79DC8F5606F6D28D8D17C45867D0779</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AAE38FF7E0DBA2275EDDBB6980BE5178</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D8FA7146EF4131D09200062B777688B9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DB900456E53DAFDB1244FCDDEFF112FE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
